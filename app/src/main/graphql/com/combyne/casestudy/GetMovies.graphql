@@ -1,0 +1,12 @@
+query getMovies($order:[MovieOrder!]){
+    movies(order: $order) {
+        edges {
+            node {
+                title
+                releaseDate
+                seasons
+            }
+        }
+        count
+    }
+}
