@@ -2,9 +2,9 @@
 
   
 Android Casestudy Assignemnt
-This is a case study assignement, consuimg GraphQL through apollo graphQL android client.
+This is a case study assignment, consuimg GraphQL through apollo graphQL android client.
 
-Building the The Casestudy Assignement
+Building the The Casestudy Assignment
 First and only step, clone the repo:
 
 git clone https://github.com/Fahad-github/GraphQL-Comb-Assignment.git
